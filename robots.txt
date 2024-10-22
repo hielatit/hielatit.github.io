@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hielatit.github.io/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/app/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/assets/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/css/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/includes/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/item/hielatit.txt.gz
+Sitemap: https://hielatit.github.io/src/hielatit.txt.gz
